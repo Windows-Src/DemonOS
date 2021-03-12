@@ -1,2 +1,0 @@
-# DemonOS
-DemonOS (ДемонОС)
